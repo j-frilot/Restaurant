@@ -1,0 +1,135 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Dancing+Script&display=swap');
+
+body{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-size:18px;
+    height:100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.h2-font{
+    font-size:40px;
+}
+
+.h3-font{
+    font-size:35px;
+}
+
+.h4-font{
+    font-size:30px;
+}
+/* -=-=-=-=-=-=-=-=-=- */
+banner p{
+    font-size: 26px;
+}
+
+/*-==--=-=-SKINNY BAR WITH ICONS=-=-=-=-=-  */
+.icon{
+    display: flex;
+}
+
+.icon li{
+    padding-left:20px;
+}
+
+.fa-facebook-f, .fa-twitter, .fa-instagram, .fa-linkedin-in, .fa-pinterest {
+    font-size: 30px;
+    padding: 20px 0px 20px 0px;
+}
+/* -=--=-=-=NAVBAR WITH BUTTONS-=-=-=-==-= */
+
+.navbar{
+    height:100px;
+}
+
+.logo{
+    margin:0px 0px;
+    padding:20px 0px 0px 10px;
+    
+    font-weight: 800;
+}
+
+.nav-list{
+    margin: 0px;
+    padding:20px 0px 0px 0px;
+}
+
+.nav-list a{
+    font-size: 26px;
+}
+
+/* -=-=-=--=-=-=-=-=-=-=-=-=- */
+.banner{
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('https://res.cloudinary.com/dsip2gx3i/image/upload/v1600388819/MSCA/Restuarant/banner-background_pe2ixy.jpg');
+    height:400px;
+}
+
+
+.slides{
+    position: relative;
+    font-size: 24px;
+}
+
+
+.salad{
+    font-size: 130px;
+    font-weight: bold;
+    margin:0px 0px 0px 0px;
+}
+
+.salad2{
+    margin:0px;
+    font-size:30px;
+    font-weight: bold;
+}
+
+/* -=-=-=-=-=*/
+
+.inner-card{
+    font-size: 22px;-
+    font-weight: bolder;
+}
+
+/* -=-=-=-=- */
+
+ul{
+    margin:0px;
+}
+
+.logo-list{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+    padding: 30px 0px;
+}
+
+.script1{
+    font-family: 'Courgette', cursive;
+}
+
+.script2{
+    font-family: 'Dancing Script', cursive;
+}
+
+.script3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* -=-=-=-=-= */
+
+.bottom-section{
+    height:400px;
+}
+
+
+/* -=-=-=-ABOUT PAGE-=-=-- */
+
+.about{
+    font-size: 20px;
+}
+
