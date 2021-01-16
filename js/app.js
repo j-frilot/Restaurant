@@ -11,11 +11,11 @@ $(document).ready(function(){
 
 
 
-let carousel = document.querySelector(".carousel")
-$(document).ready(function () {
-    $(".carousel").carousel("fullWidth");
-    $(".carousel").carousel("fullWidth", true);
-  });
+// let carousel = document.querySelector(".carousel")
+// $(document).ready(function () {
+//     $(".carousel").carousel("fullWidth");
+//     $(".carousel").carousel("fullWidth", true);
+//   });
 
 
 
